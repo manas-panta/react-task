@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    margin: 1rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+table{
+    margin: auto;
+    
+}
+table, th,td{
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+th{
+    font-size: 20px;
+    padding: 12px;
+}
+td{
+    padding: 8px;
+    text-align: center;
+    
+}
